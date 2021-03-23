@@ -1,6 +1,6 @@
 # Details of the questionnaire
 
-## Categories of questions
+## Mapping of categories to questions stated below
 Category | Questions
 | :--- | :---:
 Basic Information  | Q1, Q2, Q3 
