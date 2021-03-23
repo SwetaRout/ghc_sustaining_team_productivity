@@ -1,6 +1,4 @@
 # Details of the questionnaire
-## Basic Information
-
 `Q1->Which of the following disciplines best describes your job role ?`
 * Software development ( Software engineer, SDE, Software Engineering manager, etc)
 * Program management (Program manager, Program manager lead, PM manager, etc)
@@ -77,8 +75,6 @@
 * 45 - 60 mins
 * more than 60 mins
 
-## Team Productivity
-
 `Q14->I am aware of my roles and responsibilities in the team.	`
 * Never
 * Occasionally
@@ -150,3 +146,12 @@
 * Occasionally
 * Often
 * Always
+
+## Categories of questions
+Category | Questions
+| :--- | :---:
+Basic Information  | Q1, Q2, Q3 
+Team Productivity  | Q6, Q22
+Motivational Collaboration | Q19, Q20, Q23
+Behavioral Collaboration | Q7, Q8, Q9, Q10, Q11, Q12, Q24
+Cognitive Collaboration | Q14, Q15, Q16, Q17, Q18, Q25
